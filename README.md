@@ -29,7 +29,7 @@ This Booking App was created as the final capstone project of the **Meta Front-E
 
 ```s
 # Run in the Terminal
-git clone https://github.com/jayantasamaddar/little-lemon-meta-frontend-capstone.git folder
+git clone https://github.com/ris4911/little-lemon-meta-Rushi.git folder
 
 # Install Dependencies
 npm install
@@ -154,7 +154,7 @@ There following Design Patterns have been followed:
   **Example**:
 
   ```jsx
-  import { Table } from './components';
+  import { Table } from "./components";
 
   const CustomTable = () => {
     return (
@@ -236,4 +236,4 @@ Unit Testing has been done with the help of React Testing Library, Jest, Jestdom
 
 # Honour Code
 
-This demo project is solely done by me, Jayanta Samaddar. You can contact me on **[GitHub](https://www.github.com/jayantasamaddar)** for interesting projects to work on.
+This demo project is solely done by me, Rushi Raval. You can contact me on **[GitHub](https://github.com/ris4911)** for interesting projects to work on.
